@@ -1,0 +1,160 @@
+.body{
+    margin: 0px;
+}
+.header{
+    background-color:#fbf5f9;
+    display: inline-block;
+    width: 100%;
+   
+    
+
+
+}
+.logo{
+    margin-left: 10%
+}
+.timkiem{
+    display:flex;
+    margin-left: 75%;
+    margin-top: -1%;
+    
+}
+
+.input{
+    border-radius: 10px;
+    height: 20px;
+
+    
+
+
+}
+.btn{
+    border-radius: 10px;
+   display: inline;
+   
+}
+.menu{
+    display: flex;
+    margin-left: 20%;
+    
+   
+}
+li{
+    padding: 0px 20px;
+    display: inline-block;
+    list-style-type: none;
+    text-transform: uppercase;
+
+    
+}
+
+li>a{
+    text-decoration: none;
+    color: black;
+}
+li:not(.home):hover{
+    border: solid #ce0645;
+    border-radius: 10px;
+    color: red;
+}
+.fa-home{
+    color: red;
+}
+.fa-home:hover{
+    color: black;
+}
+
+#home , a {
+    border:thin solid #ce0645;
+    border-radius: 10px;
+    padding:5px 15px;
+}
+.img1{
+    height: 300px;
+    width: 100%;
+}
+.content{
+    
+    display: flex;
+
+
+}
+p{
+    color: black;
+}
+
+
+.font{
+    color:  #ce0645;
+    text-align: center;
+}
+.pic1{
+    height: 200px;
+    width: 200px;
+    border:unset;
+    color:  #d00847;
+    border: 1px solid;
+    margin-right: 2%;
+    margin-left: 10%;
+    padding-left: 15px;
+}
+.pic2{
+    height: 200px;
+    width: 200px;
+    border: 1px solid;
+    color:  #d00847;
+    margin-right: 2%;
+    padding-left: 15px;
+}
+.pic3{
+    height: 200px;
+    width: 200px;
+    border:unset;
+    color:  #d00847;
+    border: 1px solid;
+    margin-right: 2%;
+    padding-left: 15px;
+}.pic4{
+    height: 200px;
+    width: 200px;
+    border:unset;
+    color:  #d00847;
+    border: 1px solid;
+    margin-right: 2%;
+    padding-left: 15px;
+}.pic5{
+    height: 200px;
+    width: 200px;
+    border:unset;
+    color:  #d00847;
+    border: 1px solid;
+    margin-right: 2%;
+    padding-left: 15px;
+}
+.footer{
+    background-color: #cf0746;
+    color: #fff;
+    height: 50px;
+    margin-top: 5%;
+    padding-top: 20px;
+    padding-left: 10%;
+    display: flex;
+}
+.img{
+    height:40px;
+    width: 40px;
+    display: flex;
+    padding-left: 60%;
+}
+#a1{
+    margin-right: 10px;
+}
+#a2{
+    margin-right: 10px;
+}
+#a3{
+    margin-right: 10px;
+}
+#a4{
+    margin-right: 10px;
+}
